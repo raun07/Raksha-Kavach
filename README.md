@@ -6,7 +6,20 @@
 
 ## 📱 Screenshots
 
-> _Add screenshots of your app here after running on device_
+<p align="center">
+  <img src="screenshots/ss1_home.jpeg" width="180" alt="Home Screen"/>
+  <img src="screenshots/ss2_task_selector.jpeg" width="180" alt="Task Selector"/>
+  <img src="screenshots/ss3_task_selector2.jpeg" width="180" alt="All Tasks"/>
+  <img src="screenshots/ss4_task_selected.jpeg" width="180" alt="Task Selected"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/ss5_checklist.jpeg" width="180" alt="Safety Checklist"/>
+  <img src="screenshots/ss6_avatar.jpeg" width="180" alt="PPE Avatar"/>
+  <img src="screenshots/ss7_quiz.jpeg" width="180" alt="Daily Quiz"/>
+  <img src="screenshots/ss8_incident.jpeg" width="180" alt="Report Incident"/>
+  <img src="screenshots/ss9_profile.jpeg" width="180" alt="Worker Profile"/>
+</p>
 
 ---
 
